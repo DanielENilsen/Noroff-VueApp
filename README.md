@@ -1,4 +1,4 @@
-# danielproject
+# Noroff-VueApp
 
 ## Project setup
 ```
